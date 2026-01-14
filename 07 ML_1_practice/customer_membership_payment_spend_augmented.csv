@@ -1,0 +1,201 @@
+Customer_ID,Membership_Type,Payment_Method,Monthly_Spend,Churn,Signup_Date,Last_Activity_Date,Region,Signup_Channel,Account_Notes,Spend_Bucket
+C0001,Basic,PayPal,47.01,0,2023-07-11,2023-11-25,APAC,Web,Promo applied at checkout,Low
+C0002,Gold,Credit Card,183.04,0,2023-03-22,2023-12-08,EMEA,Web,Discount expired this month,High
+C0003,Silver,PayPal,108.76,0,2023-04-02,2024-10-15,AMER,Mobile,Promo applied at checkout,Medium
+C0004,Gold,Credit Card,211.52,0,2023-12-04,2025-04-23,EMEA,Mobile,Discount expired this month,High
+C0005,Platinum,Crypto,372.01,0,2023-09-27,2024-02-27,AMER,Web,Used referral code,High
+C0006,Silver,Credit Card,117.23,0,2023-11-29,2025-06-21,APAC,Mobile,Promo applied at checkout,Medium
+C0007,Silver,Credit Card,101.85,0,2023-06-11,2025-01-06,AMER,Web,No issues reported,Medium
+C0008,Basic,Credit Card,53.31,0,2023-03-13,2023-12-09,AMER,Web,Used referral code,Low
+C0009,Basic,Credit Card,23.06,1,2023-12-05,2024-05-27,EMEA,Partner,Upgraded last quarter,Low
+C0010,Silver,Bank Transfer,26.45,1,2023-10-08,2023-10-30,EMEA,Web,No issues reported,Low
+C0011,Gold,Credit Card,95.96,0,2023-04-20,2024-09-03,EMEA,Mobile,Requested invoice via email,Medium
+C0012,Gold,Bank Transfer,215.72,0,2023-04-03,2023-06-02,EMEA,Sales,Contacted support about payment,High
+C0013,Silver,Credit Card,73.04,1,2023-06-26,2024-03-05,AMER,Sales,No issues reported,Low
+C0014,Basic,Bank Transfer,50.78,0,2023-09-11,2024-10-14,AMER,Mobile,Discount expired this month,Low
+C0015,Basic,PayPal,46.75,1,2023-10-29,2024-03-20,AMER,Mobile,Contacted support about payment,Low
+C0016,Platinum,Bank Transfer,200.33,0,2023-08-25,2024-12-30,AMER,Web,Requested invoice via email,High
+C0017,Basic,Credit Card,37.97,0,2023-05-06,2024-07-06,AMER,Web,Upgraded last quarter,Low
+C0018,Silver,Bank Transfer,51.03,0,2023-02-04,2023-11-07,EMEA,Web,Requested invoice via email,Low
+C0019,Platinum,Crypto,471.4,0,2023-05-21,2023-11-28,APAC,Mobile,Discount expired this month,High
+C0020,Basic,Credit Card,43.47,1,2023-11-27,2024-02-26,EMEA,Web,Contacted support about payment,Low
+C0021,Silver,PayPal,80.57,0,2023-02-07,2024-09-19,EMEA,Partner,Promo applied at checkout,Medium
+C0022,Platinum,Crypto,363.88,0,2023-08-20,2023-11-01,AMER,Web,Used referral code,High
+C0023,Basic,Credit Card,58.27,0,2023-03-23,2023-04-20,EMEA,Web,No issues reported,Low
+C0024,Silver,Crypto,123.49,0,2023-04-02,2023-07-04,EMEA,Mobile,Contacted support about payment,Medium
+C0025,Platinum,Crypto,421.04,0,2023-05-26,2023-07-16,EMEA,Web,No issues reported,High
+C0026,Basic,Credit Card,43.74,0,2023-03-09,2024-08-12,AMER,Mobile,Promo applied at checkout,Low
+C0027,Silver,Credit Card,95.42,0,2023-11-23,2024-01-28,AMER,Mobile,Upgraded last quarter,Medium
+C0028,Gold,Credit Card,141.34,0,2023-06-21,2025-01-11,AMER,Web,No issues reported,Medium
+C0029,Gold,Crypto,249.71,0,2023-08-31,2024-05-20,AMER,Mobile,No issues reported,High
+C0030,Silver,PayPal,64.58,0,2023-07-12,2024-07-11,EMEA,Mobile,Requested invoice via email,Low
+C0031,Basic,Credit Card,45.28,1,2023-05-06,2023-11-11,EMEA,Mobile,Discount expired this month,Low
+C0032,Silver,Credit Card,62.57,0,2023-03-21,2023-05-05,AMER,Mobile,Upgraded last quarter,Low
+C0033,Silver,Credit Card,80.14,0,2023-04-07,2024-09-18,AMER,Web,Requested invoice via email,Medium
+C0034,Silver,Crypto,124.8,0,2023-01-24,2024-08-19,APAC,Partner,Discount expired this month,Medium
+C0035,Silver,Bank Transfer,28.22,0,2023-11-23,2024-12-21,EMEA,Web,No issues reported,Low
+C0036,Gold,Bank Transfer,144.38,0,2023-03-31,2023-11-09,APAC,Sales,Upgraded last quarter,Medium
+C0037,Gold,Bank Transfer,163.25,0,2023-12-30,2024-08-28,EMEA,Web,Upgraded last quarter,Medium
+C0038,Basic,Credit Card,63.99,0,2023-05-19,2024-04-21,EMEA,Partner,Discount expired this month,Low
+C0039,Silver,Bank Transfer,5.0,0,2023-01-28,2024-01-13,AMER,Web,Upgraded last quarter,Low
+C0040,Basic,Credit Card,27.9,1,2023-10-28,2024-02-25,EMEA,Web,Promo applied at checkout,Low
+C0041,Silver,PayPal,122.29,0,2023-09-03,2023-10-17,APAC,Mobile,No issues reported,Medium
+C0042,Silver,Credit Card,61.04,0,2023-05-23,2023-10-17,EMEA,Partner,Used referral code,Low
+C0043,Gold,Credit Card,157.74,0,2023-09-21,2024-12-18,AMER,Mobile,Used referral code,Medium
+C0044,Silver,Bank Transfer,102.05,0,2023-12-02,2024-05-16,AMER,Mobile,Discount expired this month,Medium
+C0045,Silver,PayPal,77.02,0,2023-06-18,2024-07-05,AMER,Mobile,Upgraded last quarter,Medium
+C0046,Gold,Credit Card,122.28,0,2023-10-11,2025-04-05,AMER,Mobile,Requested invoice via email,Medium
+C0047,Silver,Credit Card,97.28,0,2023-09-06,2024-12-02,AMER,Web,Upgraded last quarter,Medium
+C0048,Platinum,Crypto,549.11,0,2023-08-12,2024-10-01,EMEA,Web,Contacted support about payment,High
+C0049,Basic,Credit Card,47.41,0,2023-05-14,2024-12-30,EMEA,Mobile,Promo applied at checkout,Low
+C0050,Gold,Credit Card,112.2,0,2023-07-01,2024-11-16,EMEA,Mobile,Used referral code,Medium
+C0051,Silver,PayPal,85.32,0,2023-11-24,2024-07-30,APAC,Web,Contacted support about payment,Medium
+C0052,Silver,PayPal,72.98,1,2023-06-28,2023-12-18,APAC,Partner,Contacted support about payment,Low
+C0053,Silver,PayPal,102.54,1,2023-08-16,2024-03-06,AMER,Mobile,Used referral code,Medium
+C0054,Silver,Credit Card,70.06,0,2023-07-07,2024-09-09,EMEA,Web,Discount expired this month,Low
+C0055,Silver,Credit Card,105.17,0,2023-01-02,2023-03-08,AMER,Partner,Used referral code,Medium
+C0056,Basic,PayPal,54.2,1,2023-05-12,2024-06-13,APAC,Partner,Requested invoice via email,Low
+C0057,Basic,Bank Transfer,32.34,0,2023-08-04,2024-03-30,AMER,Mobile,Used referral code,Low
+C0058,Gold,Credit Card,128.85,0,2023-03-10,2023-06-22,EMEA,Web,Used referral code,Medium
+C0059,Silver,PayPal,43.07,0,2023-11-25,2025-03-05,EMEA,Web,Discount expired this month,Low
+C0060,Gold,PayPal,112.94,0,2023-04-25,2024-08-14,APAC,Web,Promo applied at checkout,Medium
+C0061,Platinum,Credit Card,299.34,0,2023-06-10,2024-01-08,APAC,Web,Upgraded last quarter,High
+C0062,Gold,Credit Card,153.35,0,2023-12-01,2024-02-05,EMEA,Partner,Discount expired this month,Medium
+C0063,Basic,Credit Card,65.83,1,2023-10-03,2024-07-29,EMEA,Sales,Used referral code,Low
+C0064,Basic,Credit Card,64.83,1,2023-04-01,2023-06-12,AMER,Partner,Upgraded last quarter,Low
+C0065,Silver,Credit Card,83.46,0,2023-10-01,2024-07-15,AMER,Web,Upgraded last quarter,Medium
+C0066,Basic,PayPal,47.75,0,2023-02-13,2023-10-14,EMEA,Web,Promo applied at checkout,Low
+C0067,Platinum,Crypto,433.15,0,2023-01-19,2024-04-21,EMEA,Sales,Requested invoice via email,High
+C0068,Platinum,PayPal,229.46,1,2023-02-18,2024-03-15,EMEA,Web,Promo applied at checkout,High
+C0069,Gold,Bank Transfer,194.18,0,2023-05-19,2023-12-02,AMER,Web,Used referral code,High
+C0070,Silver,Credit Card,91.45,0,2023-10-31,2024-02-26,APAC,Mobile,Upgraded last quarter,Medium
+C0071,Gold,Bank Transfer,198.08,0,2023-04-21,2023-12-04,AMER,Web,Promo applied at checkout,High
+C0072,Basic,Credit Card,47.31,1,2023-06-10,2023-07-04,AMER,Mobile,Upgraded last quarter,Low
+C0073,Basic,Credit Card,44.41,1,2023-02-10,2023-09-02,EMEA,Mobile,Contacted support about payment,Low
+C0074,Silver,Bank Transfer,75.25,0,2023-09-22,2024-02-10,EMEA,Web,Requested invoice via email,Medium
+C0075,Gold,Credit Card,180.24,0,2023-12-28,2024-06-17,AMER,Partner,Discount expired this month,High
+C0076,Silver,PayPal,83.61,0,2023-03-17,2023-06-15,EMEA,Partner,Requested invoice via email,Medium
+C0077,Basic,PayPal,24.13,1,2023-03-14,2023-08-22,EMEA,Web,Upgraded last quarter,Low
+C0078,Basic,PayPal,49.41,1,2023-01-20,2023-07-24,EMEA,Web,Discount expired this month,Low
+C0079,Basic,Bank Transfer,33.17,0,2023-08-13,2024-03-01,AMER,Partner,No issues reported,Low
+C0080,Basic,Bank Transfer,41.71,0,2023-03-26,2023-09-16,APAC,Mobile,Upgraded last quarter,Low
+C0081,Basic,Credit Card,50.98,0,2023-11-03,2024-01-15,APAC,Partner,Upgraded last quarter,Low
+C0082,Silver,Credit Card,87.93,0,2023-12-05,2024-12-08,APAC,Partner,Contacted support about payment,Medium
+C0083,Silver,Credit Card,97.68,0,2023-11-25,2024-12-30,APAC,Web,Promo applied at checkout,Medium
+C0084,Gold,Credit Card,143.86,0,2023-02-08,2023-12-28,EMEA,Web,Requested invoice via email,Medium
+C0085,Gold,Credit Card,136.72,0,2023-02-04,2024-01-06,APAC,Mobile,Promo applied at checkout,Medium
+C0086,Silver,Credit Card,48.3,0,2023-04-30,2024-01-15,APAC,Web,Contacted support about payment,Low
+C0087,Silver,PayPal,93.43,0,2023-10-15,2024-01-03,AMER,Web,Upgraded last quarter,Medium
+C0088,Gold,Bank Transfer,143.83,0,2023-09-02,2023-10-15,EMEA,Mobile,Discount expired this month,Medium
+C0089,Gold,PayPal,103.4,0,2023-04-29,2023-07-05,EMEA,Partner,Upgraded last quarter,Medium
+C0090,Gold,Credit Card,134.15,0,2023-12-23,2025-05-07,AMER,Partner,No issues reported,Medium
+C0091,Gold,Credit Card,176.83,0,2023-05-13,2024-04-30,APAC,Sales,Upgraded last quarter,High
+C0092,Platinum,PayPal,354.04,0,2023-05-22,2023-12-13,APAC,Web,Discount expired this month,High
+C0093,Basic,PayPal,84.58,1,2023-07-05,2023-12-19,AMER,Partner,Requested invoice via email,Medium
+C0094,Gold,Credit Card,239.29,0,2023-11-18,2024-03-14,EMEA,Partner,Used referral code,High
+C0095,Basic,Credit Card,43.75,1,2023-09-10,2023-11-24,EMEA,Mobile,Contacted support about payment,Low
+C0096,Silver,PayPal,86.81,0,2023-04-01,2024-07-30,AMER,Partner,Discount expired this month,Medium
+C0097,Gold,Credit Card,151.99,0,2023-04-29,2024-12-08,EMEA,Web,No issues reported,Medium
+C0098,Gold,Credit Card,128.57,0,2023-05-29,2024-11-18,AMER,Web,Promo applied at checkout,Medium
+C0099,Basic,Credit Card,54.4,0,2023-12-29,2025-01-11,EMEA,Mobile,Requested invoice via email,Low
+C0100,Gold,Bank Transfer,218.02,0,2023-05-26,2024-07-20,EMEA,Sales,Promo applied at checkout,High
+C0101,Basic,Credit Card,47.93,1,2023-05-13,2023-11-30,EMEA,Sales,Contacted support about payment,Low
+C0102,Silver,Bank Transfer,36.43,0,2023-11-27,2025-01-03,EMEA,Web,Requested invoice via email,Low
+C0103,Gold,PayPal,201.37,0,2023-05-30,2024-03-30,APAC,Sales,Requested invoice via email,High
+C0104,Silver,Credit Card,125.13,0,2023-01-07,2024-06-04,AMER,Mobile,Requested invoice via email,Medium
+C0105,Silver,PayPal,99.89,0,2023-12-27,2025-01-25,EMEA,Web,Upgraded last quarter,Medium
+C0106,Gold,Bank Transfer,176.1,0,2023-08-30,2024-02-06,EMEA,Web,Upgraded last quarter,High
+C0107,Gold,Crypto,172.63,0,2023-11-11,2025-05-23,AMER,Mobile,Promo applied at checkout,Medium
+C0108,Gold,Credit Card,159.32,0,2023-03-07,2023-07-11,AMER,Mobile,Requested invoice via email,Medium
+C0109,Basic,Credit Card,53.1,1,2023-06-17,2024-01-24,EMEA,Web,Promo applied at checkout,Low
+C0110,Silver,Bank Transfer,77.28,1,2023-04-11,2023-09-08,AMER,Web,Discount expired this month,Medium
+C0111,Silver,Credit Card,61.32,1,2023-09-19,2023-12-06,APAC,Partner,No issues reported,Low
+C0112,Basic,Credit Card,43.96,1,2023-10-21,2024-08-15,AMER,Partner,Contacted support about payment,Low
+C0113,Silver,Credit Card,80.62,0,2023-04-02,2024-06-07,AMER,Mobile,Requested invoice via email,Medium
+C0114,Silver,Bank Transfer,88.98,0,2023-04-04,2024-06-21,EMEA,Partner,No issues reported,Medium
+C0115,Gold,Bank Transfer,206.54,0,2023-09-10,2025-01-03,AMER,Mobile,Promo applied at checkout,High
+C0116,Platinum,Credit Card,367.94,0,2023-06-28,2024-03-15,AMER,Web,Discount expired this month,High
+C0117,Basic,PayPal,78.84,1,2023-05-06,2023-06-11,AMER,Web,Promo applied at checkout,Medium
+C0118,Basic,PayPal,55.54,1,2023-04-22,2023-12-27,EMEA,Partner,Discount expired this month,Low
+C0119,Gold,Bank Transfer,263.46,0,2023-08-04,2023-10-26,AMER,Mobile,Upgraded last quarter,High
+C0120,Basic,Credit Card,47.08,0,2023-01-11,2024-03-22,EMEA,Web,Used referral code,Low
+C0121,Basic,Credit Card,20.73,1,2023-03-06,2023-12-26,AMER,Mobile,Promo applied at checkout,Low
+C0122,Silver,Credit Card,118.43,0,2023-07-28,2024-10-07,EMEA,Partner,No issues reported,Medium
+C0123,Basic,Credit Card,34.44,0,2023-08-04,2023-10-16,AMER,Mobile,Discount expired this month,Low
+C0124,Gold,Bank Transfer,239.43,0,2023-02-13,2023-10-02,EMEA,Web,Upgraded last quarter,High
+C0125,Gold,Bank Transfer,157.42,0,2023-05-21,2024-01-04,AMER,Partner,Promo applied at checkout,Medium
+C0126,Basic,Credit Card,43.03,1,2023-02-04,2023-07-10,APAC,Web,Used referral code,Low
+C0127,Silver,Credit Card,106.22,0,2023-05-13,2024-01-21,EMEA,Sales,Used referral code,Medium
+C0128,Gold,Credit Card,179.53,0,2023-08-25,2023-09-26,EMEA,Partner,No issues reported,High
+C0129,Platinum,Credit Card,106.69,0,2023-06-06,2023-07-03,EMEA,Mobile,Contacted support about payment,Medium
+C0130,Basic,Credit Card,49.42,0,2023-12-10,2024-11-16,EMEA,Web,No issues reported,Low
+C0131,Basic,Credit Card,33.96,1,2023-01-18,2023-08-07,APAC,Web,Promo applied at checkout,Low
+C0132,Gold,Credit Card,101.26,0,2023-08-30,2023-11-12,AMER,Web,Contacted support about payment,Medium
+C0133,Platinum,Credit Card,299.08,0,2023-06-22,2024-07-30,EMEA,Web,Used referral code,High
+C0134,Basic,Credit Card,34.24,0,2023-08-14,2024-01-09,AMER,Web,Used referral code,Low
+C0135,Silver,Bank Transfer,107.81,0,2023-02-05,2023-10-29,AMER,Web,Used referral code,Medium
+C0136,Gold,PayPal,179.19,0,2023-12-01,2025-01-08,AMER,Sales,Requested invoice via email,High
+C0137,Gold,Bank Transfer,154.32,0,2023-09-12,2024-01-11,EMEA,Mobile,Promo applied at checkout,Medium
+C0138,Basic,Credit Card,50.29,1,2023-05-28,2023-10-19,EMEA,Mobile,Contacted support about payment,Low
+C0139,Gold,PayPal,105.08,0,2023-06-26,2024-11-02,APAC,Web,No issues reported,Medium
+C0140,Gold,Bank Transfer,217.59,0,2023-04-18,2023-10-25,AMER,Mobile,Upgraded last quarter,High
+C0141,Silver,Credit Card,95.96,0,2023-12-17,2024-07-28,AMER,Partner,No issues reported,Medium
+C0142,Basic,Credit Card,35.98,0,2023-01-16,2024-03-21,APAC,Web,No issues reported,Low
+C0143,Basic,PayPal,30.18,0,2023-02-02,2024-08-13,EMEA,Sales,Upgraded last quarter,Low
+C0144,Basic,Bank Transfer,43.38,1,2023-06-02,2023-07-06,APAC,Web,Discount expired this month,Low
+C0145,Gold,Bank Transfer,149.13,0,2023-02-13,2024-02-11,AMER,Sales,Discount expired this month,Medium
+C0146,Basic,Credit Card,21.96,1,2023-10-03,2023-12-08,APAC,Web,Contacted support about payment,Low
+C0147,Basic,Bank Transfer,11.65,1,2023-08-04,2024-06-21,AMER,Mobile,No issues reported,Low
+C0148,Silver,Credit Card,87.56,0,2023-11-03,2025-01-31,AMER,Mobile,Upgraded last quarter,Medium
+C0149,Basic,PayPal,36.54,1,2023-03-15,2023-11-29,AMER,Partner,Contacted support about payment,Low
+C0150,Basic,Credit Card,48.73,1,2023-09-21,2024-01-25,EMEA,Web,Used referral code,Low
+C0151,Basic,PayPal,58.36,1,2023-05-22,2024-04-15,EMEA,Mobile,Requested invoice via email,Low
+C0152,Silver,Bank Transfer,126.37,0,2023-03-18,2023-04-10,AMER,Web,Contacted support about payment,Medium
+C0153,Gold,PayPal,168.22,0,2023-05-06,2024-01-20,EMEA,Partner,Contacted support about payment,Medium
+C0154,Silver,Credit Card,72.04,0,2023-04-25,2023-06-13,EMEA,Web,Requested invoice via email,Low
+C0155,Basic,Bank Transfer,31.48,1,2023-07-05,2024-03-17,AMER,Partner,Upgraded last quarter,Low
+C0156,Basic,PayPal,51.93,0,2023-02-12,2024-07-28,AMER,Partner,Discount expired this month,Low
+C0157,Silver,PayPal,99.88,1,2023-02-12,2023-08-23,EMEA,Web,Contacted support about payment,Medium
+C0158,Platinum,PayPal,325.95,0,2023-01-18,2024-02-28,AMER,Web,Contacted support about payment,High
+C0159,Platinum,Credit Card,253.2,0,2023-12-04,2025-05-03,EMEA,Mobile,No issues reported,High
+C0160,Basic,Credit Card,23.21,1,2023-04-29,2023-06-18,AMER,Partner,Contacted support about payment,Low
+C0161,Basic,PayPal,33.14,1,2023-08-02,2023-08-16,AMER,Web,Used referral code,Low
+C0162,Gold,Bank Transfer,109.36,0,2023-10-27,2025-04-05,APAC,Mobile,Promo applied at checkout,Medium
+C0163,Platinum,PayPal,350.67,0,2023-08-11,2024-08-02,APAC,Mobile,Used referral code,High
+C0164,Silver,Bank Transfer,52.84,1,2023-08-30,2024-05-17,AMER,Partner,Contacted support about payment,Low
+C0165,Gold,Bank Transfer,188.31,0,2023-07-29,2025-02-12,AMER,Partner,Used referral code,High
+C0166,Gold,PayPal,130.38,0,2023-04-02,2023-11-03,EMEA,Web,Upgraded last quarter,Medium
+C0167,Silver,Credit Card,93.66,0,2023-11-09,2025-02-24,AMER,Web,No issues reported,Medium
+C0168,Gold,Credit Card,187.1,0,2023-06-16,2024-02-08,EMEA,Mobile,Requested invoice via email,High
+C0169,Basic,Credit Card,46.67,0,2023-09-10,2024-01-19,APAC,Partner,Contacted support about payment,Low
+C0170,Basic,Credit Card,34.78,0,2023-09-04,2023-11-16,EMEA,Mobile,No issues reported,Low
+C0171,Basic,Credit Card,47.1,1,2023-10-14,2024-02-12,EMEA,Partner,Promo applied at checkout,Low
+C0172,Basic,Credit Card,46.77,1,2023-05-01,2024-01-28,APAC,Mobile,Requested invoice via email,Low
+C0173,Platinum,PayPal,172.17,0,2023-04-25,2024-07-28,AMER,Partner,No issues reported,Medium
+C0174,Basic,Credit Card,25.59,0,2023-10-30,2023-12-14,AMER,Mobile,Contacted support about payment,Low
+C0175,Gold,PayPal,127.93,0,2023-02-17,2024-07-07,EMEA,Partner,Upgraded last quarter,Medium
+C0176,Basic,Credit Card,60.86,0,2023-12-12,2024-08-12,EMEA,Partner,Contacted support about payment,Low
+C0177,Silver,Credit Card,94.5,0,2023-03-01,2024-06-24,APAC,Sales,Used referral code,Medium
+C0178,Silver,Credit Card,59.57,0,2023-08-16,2024-05-23,AMER,Web,Contacted support about payment,Low
+C0179,Basic,Bank Transfer,36.93,0,2023-03-26,2024-01-11,AMER,Partner,Used referral code,Low
+C0180,Silver,Credit Card,101.03,0,2023-11-10,2025-01-26,AMER,Partner,Requested invoice via email,Medium
+C0181,Silver,PayPal,79.3,1,2023-10-11,2024-06-11,AMER,Web,Discount expired this month,Medium
+C0182,Basic,PayPal,45.42,0,2023-09-18,2023-10-16,EMEA,Web,Requested invoice via email,Low
+C0183,Gold,Credit Card,187.79,0,2023-01-06,2024-02-02,EMEA,Web,Discount expired this month,High
+C0184,Basic,Bank Transfer,57.04,1,2023-07-13,2023-07-26,EMEA,Mobile,Discount expired this month,Low
+C0185,Basic,PayPal,41.31,0,2023-04-19,2024-08-08,AMER,Mobile,Promo applied at checkout,Low
+C0186,Silver,Credit Card,96.81,0,2023-09-07,2023-10-11,AMER,Sales,No issues reported,Medium
+C0187,Silver,Credit Card,98.26,0,2023-09-06,2025-01-18,EMEA,Web,Requested invoice via email,Medium
+C0188,Basic,Bank Transfer,89.4,0,2023-09-03,2024-01-08,EMEA,Mobile,Upgraded last quarter,Medium
+C0189,Platinum,PayPal,276.75,0,2023-08-15,2024-02-02,EMEA,Web,No issues reported,High
+C0190,Gold,Credit Card,119.4,0,2023-01-01,2024-08-18,EMEA,Sales,No issues reported,Medium
+C0191,Basic,Credit Card,36.86,1,2023-09-21,2023-12-27,APAC,Mobile,Promo applied at checkout,Low
+C0192,Silver,Crypto,139.46,0,2023-07-13,2024-11-12,EMEA,Web,Promo applied at checkout,Medium
+C0193,Basic,Credit Card,37.28,1,2023-12-03,2024-09-25,EMEA,Web,Upgraded last quarter,Low
+C0194,Silver,Credit Card,76.04,0,2023-06-26,2023-11-02,APAC,Partner,No issues reported,Medium
+C0195,Basic,Credit Card,47.99,1,2023-05-08,2023-06-25,EMEA,Web,No issues reported,Low
+C0196,Silver,PayPal,69.0,0,2023-07-26,2024-10-29,AMER,Web,Discount expired this month,Low
+C0197,Platinum,Bank Transfer,227.73,0,2023-06-27,2024-01-01,AMER,Mobile,Contacted support about payment,High
+C0198,Silver,Credit Card,92.3,1,2023-07-14,2024-01-06,APAC,Sales,Discount expired this month,Medium
+C0199,Gold,Crypto,219.48,0,2023-03-08,2023-10-04,AMER,Sales,Contacted support about payment,High
+C0200,Silver,Credit Card,147.77,0,2023-11-16,2023-12-08,AMER,Web,No issues reported,Medium
