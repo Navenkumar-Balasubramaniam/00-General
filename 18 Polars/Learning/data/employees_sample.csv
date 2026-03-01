@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,department,position,salary,hire_date,is_active
+1,Noah,Smith,employee1@company.com,Operations,Business Analyst,77098,2020-07-03,true
+2,Michael,Moore,employee2@company.com,Engineering,Software Engineer,122397,2022-09-25,true
+3,Sophia,Davis,employee3@company.com,Engineering,Tech Lead,123907,2018-04-19,true
+4,Luna,Moore,employee4@company.com,Operations,Process Engineer,73893,2023-01-14,true
+5,Gianna,Garcia,employee5@company.com,Engineering,QA Engineer,89597,2021-02-12,true
+6,Noah,Williams,employee6@company.com,Sales,Business Development,57676,2022-01-10,true
+7,Isabella,Johnson,employee7@company.com,Finance,Auditor,115284,2019-05-27,false
+8,Olivia,Moore,employee8@company.com,HR,HR Coordinator,127397,2024-12-08,true
+9,Evelyn,Miller,employee9@company.com,Sales,Sales Rep,51006,2020-07-22,true
+10,Logan,Davis,employee10@company.com,Engineering,Software Engineer,94823,2021-02-12,true

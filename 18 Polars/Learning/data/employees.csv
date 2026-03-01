@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,email,department,position,salary,hire_date,is_active
+1,Noah,Smith,employee1@company.com,Operations,Business Analyst,77098,2020-07-03,True
+2,Michael,Moore,employee2@company.com,Engineering,Software Engineer,122397,2022-09-25,True
+3,Sophia,Davis,employee3@company.com,Engineering,Tech Lead,123907,2018-04-19,True
+4,Luna,Moore,employee4@company.com,Operations,Process Engineer,73893,2023-01-14,True
+5,Gianna,Garcia,employee5@company.com,Engineering,QA Engineer,89597,2021-02-12,True
+6,Noah,Williams,employee6@company.com,Sales,Business Development,57676,2022-01-10,True
+7,Isabella,Johnson,employee7@company.com,Finance,Auditor,115284,2019-05-27,False
+8,Olivia,Moore,employee8@company.com,HR,HR Coordinator,127397,2024-12-08,True
+9,Evelyn,Miller,employee9@company.com,Sales,Sales Rep,51006,2020-07-22,True
+10,Logan,Davis,employee10@company.com,Engineering,Software Engineer,94823,2021-02-12,True
+11,Ethan,Lopez,employee11@company.com,Sales,Sales Director,72460,2020-12-29,True
+12,Luna,Williams,employee12@company.com,Operations,Supply Chain Analyst,128227,2019-12-02,True
+13,Ethan,Anderson,employee13@company.com,Marketing,Brand Manager,80382,2024-03-31,True
+14,Abigail,Johnson,employee14@company.com,Sales,Account Manager,49207,2021-07-16,True
+15,Sophia,Jackson,employee15@company.com,Engineering,DevOps Engineer,72869,2023-08-07,True
+16,Amelia,Jones,employee16@company.com,Operations,Business Analyst,63301,2020-10-07,True
+17,Isabella,Jackson,employee17@company.com,Finance,Auditor,121484,2022-06-24,True
+18,Harper,Thomas,employee18@company.com,Marketing,Marketing Manager,144061,2018-07-12,True
+19,Luna,Garcia,employee19@company.com,Marketing,Brand Manager,123172,2018-09-18,True
+20,Amelia,Taylor,employee20@company.com,Finance,Controller,117512,2018-02-17,True
+21,Michael,Moore,employee21@company.com,Engineering,DevOps Engineer,145741,2021-10-25,True
+22,Ethan,Anderson,employee22@company.com,HR,HR Manager,139646,2020-12-14,False
+23,Harper,Brown,employee23@company.com,Marketing,SEO Specialist,128748,2023-09-11,True
+24,James,Garcia,employee24@company.com,Marketing,Digital Marketer,147056,2023-12-13,False
+25,Mia,Thomas,employee25@company.com,Finance,Accountant,59662,2022-01-26,True
+26,Mason,Johnson,employee26@company.com,Sales,Account Manager,119364,2018-11-19,True
+27,Abigail,Williams,employee27@company.com,HR,HR Analyst,145379,2019-05-31,True
+28,Henry,Garcia,employee28@company.com,HR,HR Coordinator,114163,2024-10-20,True
+29,Jackson,Moore,employee29@company.com,Marketing,Content Writer,138447,2021-06-30,True
+30,Luna,Lopez,employee30@company.com,Operations,Process Engineer,112839,2023-01-24,True
+31,Olivia,Hernandez,employee31@company.com,Marketing,Marketing Manager,122110,2024-03-18,True
+32,Emma,Williams,employee32@company.com,Marketing,Marketing Manager,75007,2018-10-04,False
+33,Olivia,Taylor,employee33@company.com,Sales,Account Manager,81500,2023-06-12,True
+34,Daniel,Jackson,employee34@company.com,Marketing,Digital Marketer,106953,2020-09-22,True
+35,Sophia,Brown,employee35@company.com,HR,HR Manager,131374,2022-11-01,True
+36,Amelia,Johnson,employee36@company.com,HR,HR Manager,52944,2022-07-08,True
+37,Mason,Miller,employee37@company.com,Engineering,Data Engineer,115292,2023-01-12,True
+38,Isabella,Anderson,employee38@company.com,Marketing,Content Writer,54880,2022-12-21,True
+39,Noah,Johnson,employee39@company.com,Finance,Treasury Analyst,46934,2019-01-18,False
+40,Ethan,Wilson,employee40@company.com,Marketing,Brand Manager,108092,2020-05-25,True
+41,Ethan,Gonzalez,employee41@company.com,Engineering,Software Engineer,96173,2020-12-22,False
+42,William,Wilson,employee42@company.com,HR,HR Analyst,131752,2023-06-17,True
+43,Sophia,Johnson,employee43@company.com,Sales,Sales Analyst,141434,2024-01-30,True
+44,Liam,Johnson,employee44@company.com,Sales,Sales Analyst,107493,2023-08-22,False
+45,Ethan,Johnson,employee45@company.com,Finance,Treasury Analyst,55500,2020-02-01,True
+46,Michael,Davis,employee46@company.com,Engineering,QA Engineer,60713,2024-05-22,True
+47,Liam,Martin,employee47@company.com,Finance,Accountant,99948,2024-07-18,True
+48,Jackson,Rodriguez,employee48@company.com,Sales,Account Manager,132782,2021-07-10,True
+49,Ava,Martinez,employee49@company.com,HR,Training Specialist,86441,2018-10-25,True
+50,Evelyn,Brown,employee50@company.com,Finance,Accountant,115468,2020-05-23,True
+51,Jackson,Lopez,employee51@company.com,Marketing,Marketing Manager,77018,2022-02-22,True
+52,Abigail,Moore,employee52@company.com,HR,HR Coordinator,125173,2023-12-07,True
+53,William,Brown,employee53@company.com,Finance,Financial Analyst,79664,2019-04-18,True
+54,Henry,Jones,employee54@company.com,Operations,Business Analyst,81930,2024-10-13,True
+55,Sophia,Rodriguez,employee55@company.com,Sales,Sales Analyst,109032,2020-10-25,False
+56,Olivia,Wilson,employee56@company.com,Engineering,DevOps Engineer,50778,2018-01-15,True
+57,Luna,Rodriguez,employee57@company.com,Marketing,Content Writer,142154,2022-12-15,True
+58,Henry,Smith,employee58@company.com,HR,HR Manager,54862,2019-09-03,True
+59,Evelyn,Moore,employee59@company.com,Sales,Account Manager,101333,2019-06-07,True
+60,Ella,Johnson,employee60@company.com,Sales,Sales Director,72535,2020-10-19,True
+61,Gianna,Moore,employee61@company.com,Sales,Business Development,126351,2019-09-26,False
+62,Logan,Garcia,employee62@company.com,Marketing,Content Writer,99040,2018-04-12,True
+63,Jacob,Wilson,employee63@company.com,Sales,Account Manager,79970,2019-10-15,True
+64,Charlotte,Johnson,employee64@company.com,Engineering,QA Engineer,74154,2020-03-28,True
+65,James,Martinez,employee65@company.com,HR,Recruiter,74219,2018-04-07,True
+66,Mia,Rodriguez,employee66@company.com,HR,HR Manager,146361,2021-02-17,True
+67,Charlotte,Moore,employee67@company.com,Finance,Controller,48617,2019-04-18,True
+68,Ethan,Jackson,employee68@company.com,Sales,Sales Director,50014,2019-03-21,True
+69,Daniel,Hernandez,employee69@company.com,Sales,Business Development,124457,2023-09-26,True
+70,Sophia,Rodriguez,employee70@company.com,Finance,Accountant,137901,2022-11-22,True
+71,Michael,Miller,employee71@company.com,Finance,Controller,101531,2018-10-14,False
+72,Alexander,Hernandez,employee72@company.com,Sales,Sales Rep,139339,2021-05-15,True
+73,Benjamin,Hernandez,employee73@company.com,Operations,Process Engineer,136384,2021-04-26,True
+74,Benjamin,Gonzalez,employee74@company.com,Marketing,Content Writer,125676,2024-05-20,True
+75,Abigail,Smith,employee75@company.com,Finance,Controller,82606,2020-05-10,True
+76,Alexander,Hernandez,employee76@company.com,Finance,Auditor,102905,2022-12-17,True
+77,Lucas,Garcia,employee77@company.com,Finance,Accountant,82196,2023-10-13,True
+78,Mia,Williams,employee78@company.com,Finance,Financial Analyst,133184,2021-06-25,True
+79,Ava,Smith,employee79@company.com,Marketing,Marketing Manager,77092,2023-05-01,True
+80,Amelia,Wilson,employee80@company.com,Engineering,Tech Lead,70485,2022-04-22,True
+81,Ava,Smith,employee81@company.com,Marketing,Marketing Manager,147029,2022-10-08,True
+82,Harper,Anderson,employee82@company.com,Operations,Operations Manager,118060,2020-10-17,False
+83,Amelia,Jones,employee83@company.com,Engineering,QA Engineer,132500,2023-12-16,False
+84,Mia,Anderson,employee84@company.com,Finance,Treasury Analyst,139276,2023-08-30,True
+85,Amelia,Garcia,employee85@company.com,Finance,Auditor,103991,2020-11-27,True
+86,Isabella,Taylor,employee86@company.com,Operations,Process Engineer,127149,2020-09-06,True
+87,Camila,Martinez,employee87@company.com,Engineering,Data Engineer,80614,2021-10-07,True
+88,Olivia,Jones,employee88@company.com,Finance,Financial Analyst,75311,2022-04-18,True
+89,Sophia,Williams,employee89@company.com,Operations,Process Engineer,98424,2021-09-17,True
+90,Liam,Miller,employee90@company.com,HR,Training Specialist,96049,2024-07-20,False
+91,Logan,Jackson,employee91@company.com,Engineering,QA Engineer,107518,2018-01-25,False
+92,Gianna,Gonzalez,employee92@company.com,Sales,Business Development,115545,2024-02-15,True
+93,Lucas,Davis,employee93@company.com,Marketing,SEO Specialist,102125,2023-06-13,True
+94,Michael,Gonzalez,employee94@company.com,Sales,Account Manager,106261,2019-06-07,False
+95,Emma,Gonzalez,employee95@company.com,Finance,Treasury Analyst,118975,2018-04-22,True
+96,Ava,Anderson,employee96@company.com,HR,Recruiter,51590,2020-12-01,True
+97,Amelia,Hernandez,employee97@company.com,Marketing,SEO Specialist,144775,2022-04-02,True
+98,Isabella,Williams,employee98@company.com,HR,Training Specialist,47540,2024-01-19,True
+99,Mason,Williams,employee99@company.com,Sales,Sales Rep,143858,2018-05-08,False
+100,Abigail,Smith,employee100@company.com,Marketing,Digital Marketer,64973,2020-09-04,True
